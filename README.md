@@ -1,7 +1,7 @@
 ---
 services: data-factory
 platforms: dotnet
-author: spelluru
+
 ---
 # Sample: copy data from Azure Blob Storage to Azure SQL Database
 In this tutorial, you create a Data Factory pipeline that copies data from Azure Blob Storage to Azure SQL Database. The configuration pattern in this tutorial applies to copying from a file-based data store to a relational data store.
